@@ -1,0 +1,165 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
+    />
+    <link rel="stylesheet" href="../css/style.css" />
+    <link rel="stylesheet" href="../css/checkout.css" />
+    <title>Checkout</title>
+  </head>
+  <body>
+    <nav>
+      <div class="nav__logo">
+        <img src="../images/logo.png" class="nav__logo-image" alt="logo" />
+      </div>
+      <div class="nav__links">
+        <ul class="nav__list">
+          <li><a href="./home.html" class="active">HOME</a></li>
+          <li><a href="#about">ABOUT</a></li>
+          <li><a href="#">SERVICES</a></li>
+          <li><a href="#posts">BLOG</a></li>
+          <li><a href="#footer">CONTACT</a></li>
+          <li><a href="./login.html">LOGIN/REGISTER</a></li>
+          <li>
+            <a href="#"><i class="fa-solid fa-moon theme"></i></a>
+          </li>
+          <li>
+            <a href=""><i class="fa-regular fa-heart"></i></a>
+          </li>
+          <li>
+            <a href="../html/cart.html"
+              ><label class="cart-number">0</label
+              ><i class="fa-solid fa-cart-plus"></i
+            ></a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+
+    <div class="checkout">
+      <div class="checkout__details">
+        <div class="checkout__section">
+          <h2 class="checkout__title">Shipping Information</h2>
+          <div class="checkout__form">
+            <div class="checkout__input-group">
+              <label>Full Name</label>
+              <input
+                type="text"
+                id="full-name"
+                placeholder="John Doe"
+                required
+              />
+            </div>
+            <div class="checkout__input-group">
+              <label>Phone Number</label>
+              <input type="text" id="phone" placeholder="+123456789" required />
+            </div>
+            <div class="checkout__input-row">
+              <div class="checkout__input-group">
+                <label>Country</label>
+                <input type="text" id="country" placeholder="USA" required />
+              </div>
+              <div class="checkout__input-group">
+                <label>City</label>
+                <input type="text" id="city" placeholder="New York" required />
+              </div>
+            </div>
+            <div class="checkout__input-group">
+              <label>Address Line (Street)</label>
+              <input
+                type="text"
+                id="address"
+                placeholder="123 Street Name"
+                required
+              />
+            </div>
+          </div>
+        </div>
+
+        <div class="checkout__section">
+          <h2 class="checkout__title">Payment Method</h2>
+          <div class="checkout__form">
+            <div class="checkout__input-group">
+              <label>Cardholder Name</label>
+              <input
+                type="text"
+                id="card-name"
+                placeholder="John Doe"
+                required
+              />
+            </div>
+            <div class="checkout__input-group">
+              <label>Card Number</label>
+              <input
+                type="text"
+                id="card-number"
+                placeholder="0000 0000 0000 0000"
+                required
+              />
+            </div>
+            <div class="checkout__input-row">
+              <div class="checkout__input-group">
+                <label>Expiry Date</label>
+                <input type="text" id="expiry" placeholder="MM/YY" required />
+              </div>
+              <div class="checkout__input-group">
+                <label>CVV</label>
+                <input type="text" id="cvv" placeholder="123" required />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="checkout__summary">
+        <h2 class="checkout__title">Your Order</h2>
+        <div class="checkout__products"></div>
+
+        <label class="invalid-coupon"></label>
+        <div class="checkout__coupon">
+          <input
+            type="text"
+            id="coupon-input"
+            placeholder="Enter Coupon Code"
+          />
+          <button id="apply-coupon">Apply</button>
+        </div>
+
+        <div class="checkout__totals">
+          <div class="checkout__total-row">
+            <span>Subtotal</span>
+            <span id="subtotal">$0.00</span>
+          </div>
+          <div class="checkout__total-row">
+            <span>Shipping Fee</span>
+            <span>$10.00</span>
+          </div>
+          <div
+            class="checkout__total-row checkout__total-row--discount"
+            id="discount-row"
+            style="display: none"
+          >
+            <span>Discount</span>
+            <span id="discount-amount">-$0.00</span>
+          </div>
+          <div class="checkout__total-row checkout__total-row--final">
+            <span>Total</span>
+            <span id="final-total">$0.00</span>
+          </div>
+        </div>
+
+        <p id="required-fields"></p>
+        <button class="checkout__place-order-btn">Place your order</button>
+        <p id="order-placed"></p>
+        <p id="redirected-to-home"></p>
+      </div>
+    </div>
+
+    <script src="../js/checkout.js"></script>
+    <script src="../js/humbergermenue.js"></script>
+  </body>
+</html>

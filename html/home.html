@@ -1,0 +1,353 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200..1000;1,200..1000&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Quicksand:wght@300..700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <link rel="stylesheet" href="../css/style.css">
+    <title>Florist</title>
+</head>
+<body>
+
+<nav>
+    <div class="nav__logo">
+        <img src="../images/logo.png" class="nav__logo-image" alt="logo">
+    </div>
+    <div class="nav__links">
+        <ul class="nav__list">
+            <li><a href="./home.html" class="active">HOME</a></li>
+            <li><a href="#about">ABOUT</a></li>
+            <li><a href="#">SERVICES</a></li>
+            <li><a href="#posts">BLOG</a></li>
+            <li><a href="#footer">CONTACT</a></li>
+            <li><a href="./login.html">LOGIN/REGISTER</a></li>
+            <li><a href="#"><i class="fa-solid fa-moon theme"></i></a></li>
+            <li><a href=""><i class="fa-regular fa-heart"></i></a></li>
+            <li><a href="../html/cart.html"><label class="cart-number">0</label><i class="fa-solid fa-cart-plus"></i></a></li>
+        </ul>
+    </div>
+</nav>
+
+<section class="hero-section">
+    <div class="hero-section__container">
+        <div class="hero-section__content">
+            <p class="hero-section__subtitle">FRESH FLOWER & GIFT SHOP</p>
+            <h1 class="hero-section__title">Making beautiful flowers<br>a part of your life.</h1>
+            <button  class="hero-section__btn">SHOP NOW</button>
+        </div>
+        <div class="hero-section__image">
+            <img class="hero-section__img" src="../images/pinkyy.png" alt="Beautiful flower">
+        </div>
+    </div>
+
+    <div class="flower-options">
+        <img class="flower-options__item" onclick="switchImage(this.src); switchColor('#d4b5e8')" 
+            src="../images/purpul-flower.png" alt="Purple">
+        
+        <img class="flower-options__item" onclick="switchImage(this.src); switchColor('#e8e8e8')" 
+            src="../images/white-tulip-flower-free-png.webp" alt="white">
+        
+        <img class="flower-options__item" onclick="switchImage(this.src); switchColor('#fff3b8')" 
+            src="../images/tulip-flower-yellow-background-png.webp" alt="yellow">
+        
+        <img class="flower-options__item" onclick="switchImage(this.src); switchColor('#ffb8b8')" 
+            src="../images/red-flower.webp" alt="red">
+        
+        <img class="flower-options__item" onclick="switchImage(this.src); switchColor('#ffb8d9')" 
+            src="../images/pinky-tulip-flower.webp" alt="pink">
+    </div>
+</section>
+
+<section class="benefits">
+    <article>
+        <img  class="benefits__icon"src="../images/benefits/benefit-1.png" alt="benefit-1">
+            <div>
+            <h2>100% Freshness</h2>
+            <p>Most people are unaware of the less common flower</p>
+            </div>
+    </article>
+    <article>
+        <img class="benefits__icon"  src="../images/benefits/benefit-2.png" alt="benefit-2">
+            <div>
+            <h2>Made by artist</h2>
+            <p>Most people are unaware of the less common flower</p>
+            </div>
+    </article>
+    <article>
+        <img class="benefits__icon" src="../images/benefits/benefit-3.png" alt="benefit-3">
+            <div>
+            <h2>Own courier</h2>
+            <p>Most people are unaware of the less common flower</p>
+            </div>
+    </article>
+    <article>
+        <img class="benefits__icon" src="../images/benefits/benefit-4.png" alt="benefit-4">
+            <div>
+            <h2>100% Freshness</h2>
+            <p>Most people are unaware of the less common flower</p>
+            </div>
+    </article>
+
+</section>
+
+<section class="categories">
+    <div class="categories__card" data-category="fragrances">
+    <div class="categories__image-wrapper">
+        <img src="../images/category1.jpg" alt="Fresh Flower" class="categories__image">
+    </div>
+    <div class="categories__info">
+        <h3 class="categories__title">Fresh Flower</h3>
+        <p class="categories__count" id="fragrances-count"></p>
+    </div>
+    </div>
+
+    <div class="categories__card" data-category="beauty">
+    <div class="categories__image-wrapper">
+        <img src="../images/category2.jpg" alt="Succulent plants" class="categories__image">
+    </div>
+    <div class="categories__info">
+        <h3 class="categories__title">Succulent plants</h3>
+        <p class="categories__count" id="beauty-count"></p>
+    </div>
+    </div>
+
+    <div class="categories__card" data-category="groceries">
+    <div class="categories__image-wrapper">
+        <img src="../images/cactus-twinge-plant-spike-.jpg" alt="Cactus plants" class="categories__image">
+    </div>
+    <div class="categories__info">
+        <h3 class="categories__title">Cactus plants</h3>
+        <p class="categories__count" id="groceries-count"></p>
+    </div>
+    </div>
+
+    <div class="categories__card" data-category="furniture">
+    <div class="categories__image-wrapper">
+        <img src="../images/category4.webp" alt="Furniture tree" class="categories__image">
+    </div>
+    <div class="categories__info">
+        <h3 class="categories__title">Funiture tree</h3>
+        <p class="categories__count" id="furniture-count"></p>
+    </div>
+    </div>
+</section>
+
+<section class="about" id="about">
+        <div class="about__container">
+            <div class="about__content">
+                <div class="about__left">
+                    <h5 class="about__subtitle">ABOUT US</h5>
+                    <h2 class="about__title">We provide all kinds of fresh flower services</h2>
+                    <div class="about__video">
+                        <a href="https://www.youtube.com/watch?v=mk48xRzuNvA" class="play-btn">
+                                <i class="fa fa-play"></i>
+                        </a>
+                    </div>
+                </div>
+                <div class="about__right">
+                    <div class="about__text">
+                    <p >For Heather Henson, of Boreal Blooms in Cold Lake, Alberta, Canada, growing flowers that can be dried and incorporated into late fall and winter floral arrangements has been a game-changer. During her growing season, this farmer-florist relies on a vivid palette of annuals, perennials and ornamental grasses to supply her studio.</p>
+                    </div>
+                    <div class="about__card">
+                        <h5 class="about__card-subtitle">SLOW FLOWERS' FLORAL INSIGHTS</h5>
+                        <h3 class="about__card-title">Dried flowers are having a renaissance</h3>
+                        <p class="about__card-text">This awareness has been stimulated by sustainable sourcing practices and the desire on the part of North American flower growers to "extend the season" beyond the last frost.</p>
+                        <a href="#" class="about__button">CONTACT US</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+</section>
+
+<section class="arrivals">
+    <div class="arrivals__header">
+        <div class="section-title">
+            <span class="section-title__subtitle">Our flower</span>
+            <h2 class="section-title__title">New Arrivals</h2>
+        </div>
+        <div class="filter">
+            <ul class="filter__list">
+                <li class="filter__item filter__item--active" data-category="all">All</li>
+                <li class="filter__item" data-category="Bouquet">Bouquet</li>
+                <li class="filter__item" data-category="Flower box">Flower box</li>
+                <li class="filter__item" data-category="Flower shelf">Flower shelf</li>
+                <li class="filter__item" data-category="Basket of flower">Basket of flower</li>
+                <li class="filter__item" data-category="Gift combos">Gift combos</li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="products-grid" id="products-grid">
+    </div>
+
+    <div class="arrivals__footer"> 
+        <a class="arrivals__link" href="../html/all-products.html">View all products</a>
+    </div>
+</section>
+
+<section class="flower-banner">
+  <div class="flower-banner__container">
+    <div class="flower-banner__content">
+      <small class="flower-banner__label">CUSTOM FLOWER</small>
+      <h1 class="flower-banner__title">Let our flowers make your party more perfect.</h1>
+      <div class="flower-banner__buttons">
+        <button class="flower-banner__button flower-banner__button--primary">ORDER NOW</button>
+        <button class="flower-banner__button flower-banner__button--outline">CONTACT US</button>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="posts" id="posts">
+        <div class="posts__header">
+            <div>
+                <div class="posts__label">LATEST POSTS</div>
+                <h1 class="posts__title">Florist tricks</h1>
+            </div>
+            <button class="posts__view-all">VIEW ALL POSTS</button>
+        </div>
+
+        <div class="posts__grid">
+            <article class="card">
+                <div class="card__image-wrapper">
+                    <img src="../images/blog-1.jpg" 
+                         alt="Pink tulips on books" 
+                         class="card__image">
+                </div>
+                <div class="card__content">
+                    <div class="label">
+                        <span>TREND NEWS</span>
+                    </div>
+                    <h4>
+                        <a href="#" class="card__title">8 Romantic Gifts to Celebrate Your Wedding Anniversary</a>
+                    </h4>
+                    <p class="card__description">Flowers have a language all their own. In Victorian times, receiving a...</p>
+                    <div class="card__date">MAY 22, 2020</div>
+                </div>
+            </article>
+
+            <article class="card">
+                <div class="card__image-wrapper">
+                    <img src="../images/blog-2.jpg" 
+                         alt="White and pink flower bouquet" 
+                         class="card__image">
+                </div>
+                <div class="card__content">
+                    <div class="label">
+                        <span>TIPS & IDEA</span>
+                    </div>
+                    <h4>
+                        <a href="#" class="card__title">Red Rose - Flower of love of Greek Mythology</a>
+                    </h4>
+                    <p class="card__description">Flowers have a language all their own. In Victorian times, receiving a...</p>
+                    <div class="card__date">MAY 22, 2020</div>
+                </div>
+            </article>
+
+            <article class="card">
+                <div class="card__image-wrapper">
+                    <img src="../images/blog-3.jpg" 
+                         alt="Colorful flowers in vases" 
+                         class="card__image">
+                </div>
+                <div class="card__content">
+                    <div class="label">
+                        <span>DIY & CRAFTS</span>
+                    </div>
+                    <h4>
+                        <a href="#" class="card__title">Beautiful Mandalas Made From Flowers by Kathy Klein</a>
+                    </h4>
+                    <p class="card__description">Flowers have a language all their own. In Victorian times, receiving a...</p>
+                    <div class="card__date">MAY 22, 2020</div>
+                </div>
+            </article>
+        </div>
+</section>
+
+<section class="testimonial">
+    <div class="testimonial__content">
+        <div class="testimonial__icon"><img src="../images/quote.png" alt=""></div>
+        <p class="testimonial__text">"I just wanted to say thank you for making such gorgeous arrangements for our
+            birthday celebration. I couldn't get over how perfect they were for the
+            party. You did a fantastic job, and I appreciate it very much"
+        </p>
+        <h4 class="testimonial__author">Alejandro Houston</h4>
+        <p class="testimonial__role"><small>Businessman</small></p>
+    </div>
+</section>
+
+<section class="gallery">
+    <div class="slider">
+        <div class="slider__container">
+            <div class="slider__track" id="slider-track">
+            </div>
+        </div>
+        <div class="slider__controls">
+            <button class="slider__btn" id="prev-btn"><i class="fa-solid fa-angle-left"></i></button>
+            <button class="slider__btn" id="start-btn"><i class="fa-solid fa-play"></i></button>
+            <button class="slider__btn" id="stop-btn"><i class="fa-solid fa-pause"></i></button>
+            <button class="slider__btn" id="next-btn"><i class="fa-solid fa-angle-right"></i></button>
+        </div>
+    </div>
+</section>
+
+<footer class="footer" id="footer">
+    <div class="footer__top">
+        <div class="footer__logo">
+            <div class="footer__logo-wrapper">
+                <img src="../images/logo.png" alt="">
+            </div>
+        </div>
+        <div class="footer__description">
+            <p>The floristry business has a significant market in the corporate and social event world,</p>
+        </div>
+        <div class="footer__social">
+            <a class="footer__social-link" href="#"><i class="fa-brands fa-facebook-f"></i></a>
+            <a class="footer__social-link" href="#"><i class="fa-brands fa-twitter"></i></a>
+            <a class="footer__social-link" href="#"><i class="fa-brands fa-instagram"></i></a>
+            <a class="footer__social-link" href="#"><i class="fa-brands fa-linkedin-in"></i></a>
+        </div>
+    </div>
+    <div class="footer__middle">
+        <div class="footer__links">
+            <ul class="footer__links-group">
+                <h4 class="footer__links-title">Company</h4>
+                <li class="footer__links-item"><a class="footer__links-link" href="#">About us</a></li>
+                <li class="footer__links-item"><a class="footer__links-link" href="#">Services</a></li>
+                <li class="footer__links-item"><a class="footer__links-link" href="#">contact us</a></li>
+            </ul>
+            <ul class="footer__links-group">
+                <h4 class="footer__links-title">Account</h4>
+                <li class="footer__links-item"><a class="footer__links-link" href="#">My cart</a></li>
+                <li class="footer__links-item"><a class="footer__links-link" href="#">Wishlist</a></li>
+                <li class="footer__links-item"><a class="footer__links-link" href="#">Login/Register</a></li>
+            </ul>
+        </div>
+        <div class="footer__newsletter">
+            <h4 class="footer__newsletter-title">Newsletter</h4>
+            <p class="footer__newsletter-text">Subscribe to our newsletter to get more free tips. No Spam, Promise</p>
+            <form class="footer__newsletter-form">
+                <input class="footer__newsletter-input" type="email" placeholder="Email">
+                <input class="footer__newsletter-submit" type="submit" value="subscribe">
+            </form>
+        </div>
+        <div class="footer__contact">
+            <h4 class="footer__contact-title">Get in touch</h4>
+            <p class="footer__contact-text">69 North Cleveland Street, Memphis, USA.
+                (123) 8111 9210 - (012) 1111 6868
+                Florist@supportthem.com</p>
+        </div>
+    </div>
+    <div class="footer__bottom"> 
+        <p class="footer__copyright"><small>Copyright ©2026 All rights reserved | This template is made with <i class="fa-solid fa-heart"></i> by <span>Colorlib</span></small></p>
+    </div>
+</footer>
+
+    <script src="../js/products.js"></script>
+    <script src="../js/categories.js"></script>
+    <script src="../js/humbergermenue.js"></script>
+</body>
+</html>

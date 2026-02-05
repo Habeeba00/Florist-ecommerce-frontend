@@ -1,0 +1,1602 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Romantic Red Rose Bouquet",
+      "description": "A stunning bouquet of 24 premium red roses, perfect for expressing love and passion. Hand-selected fresh roses arranged with elegant greenery and wrapped in luxury paper.",
+      "category": "Bouquet",
+      "price": 79.99,
+      "discountPercentage": 15.5,
+      "rating": 4.9,
+      "stock": 12,
+      "tags": [
+        "roses",
+        "romantic",
+        "bouquet"
+      ],
+      "brand": "Bloom & Wild",
+      "sku": "RRB24001",
+      "weight": 1.5,
+      "dimensions": {
+        "width": 30.0,
+        "height": 45.0,
+        "depth": 30.0
+      },
+      "warrantyInformation": "Freshness guaranteed for 7 days",
+      "shippingInformation": "Ships in 1-2 days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Absolutely gorgeous! My wife loved them!",
+          "date": "2024-05-20T10:30:15.618Z",
+          "reviewerName": "Michael Chen",
+          "reviewerEmail": "michael.chen@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Fresh and beautiful roses!",
+          "date": "2024-05-18T14:22:10.618Z",
+          "reviewerName": "Sarah Johnson",
+          "reviewerEmail": "sarah.johnson@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Great quality but a bit pricey",
+          "date": "2024-05-15T09:15:30.618Z",
+          "reviewerName": "David Miller",
+          "reviewerEmail": "david.miller@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days freshness guarantee",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2024-05-01T08:00:00.618Z",
+        "updatedAt": "2024-05-23T08:56:21.618Z",
+        "barcode": "9164035100001",
+        "qrCode": "..."
+      },
+        "thumbnail": "/images/flowers/product-1.jpg",
+        "images": [
+            "/images/flowers/product1hover4.avif",
+            "/images/flowers/product1hover2.jpg",
+            "/images/flowers/product1hover3.jpg"
+        ]
+    },
+    {
+      "id": 2,
+      "title": "Elegant White Lily Bouquet",
+      "description": "Pure white lilies symbolizing elegance and grace. This bouquet features 12 pristine white lilies with baby's breath and eucalyptus leaves.",
+      "category": "Bouquet",
+      "price": 65.99,
+      "discountPercentage": 10.0,
+      "rating": 4.8,
+      "stock": 8,
+      "tags": [
+        "lilies",
+        "white",
+        "elegant"
+      ],
+      "brand": "Petal Paradise",
+      "sku": "WLB12002",
+      "weight": 1.2,
+      "dimensions": {
+        "width": 28.0,
+        "height": 40.0,
+        "depth": 28.0
+      },
+      "warrantyInformation": "Freshness guaranteed for 7 days",
+      "shippingInformation": "Ships in 1-2 days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Perfect for a funeral arrangement",
+          "date": "2024-05-22T11:45:20.618Z",
+          "reviewerName": "Emma Watson",
+          "reviewerEmail": "emma.watson@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Beautiful but arrived with one damaged lily",
+          "date": "2024-05-19T16:30:45.618Z",
+          "reviewerName": "James Wilson",
+          "reviewerEmail": "james.wilson@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days freshness guarantee",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2024-05-02T08:00:00.618Z",
+        "updatedAt": "2024-05-23T08:56:21.618Z",
+        "barcode": "9164035100002",
+        "qrCode": "..."
+      },
+      "thumbnail":"/images/flowers/product-2.jpg",
+      "images": [            
+            "/images/flowers/product2hover1.jpg",
+            "/images/flowers/product2hover2.webp",
+            "/images/flowers/product2hover3.webp"
+    ]
+    },
+    {
+      "id": 3,
+      "title": "Sunshine Mixed Flower Bouquet",
+      "description": "Brighten someone's day with this cheerful mix of sunflowers, yellow roses, and orange gerberas. A burst of sunshine in floral form!",
+      "category": "Bouquet",
+      "price": 54.99,
+      "discountPercentage": 8.0,
+      "rating": 4.7,
+      "stock": 15,
+      "tags": [
+        "sunflowers",
+        "mixed",
+        "cheerful"
+      ],
+      "brand": "Bloom & Wild",
+      "sku": "SMB18003",
+      "weight": 1.3,
+      "dimensions": {
+        "width": 32.0,
+        "height": 38.0,
+        "depth": 32.0
+      },
+      "warrantyInformation": "Freshness guaranteed for 7 days",
+      "shippingInformation": "Ships in 1-2 days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "So bright and cheerful!",
+          "date": "2024-05-21T13:20:35.618Z",
+          "reviewerName": "Lisa Anderson",
+          "reviewerEmail": "lisa.anderson@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Nice variety of flowers",
+          "date": "2024-05-17T10:15:20.618Z",
+          "reviewerName": "Robert Taylor",
+          "reviewerEmail": "robert.taylor@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days freshness guarantee",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2024-05-03T08:00:00.618Z",
+        "updatedAt": "2024-05-23T08:56:21.618Z",
+        "barcode": "9164035100003",
+        "qrCode": "..."
+      },
+      "thumbnail":"/images/flowers/product-3.jpg",
+      "images": [            
+            "/images/flowers/product2hover1.jpg",
+            "/images/flowers/product2hover2.webp",
+            "/images/flowers/product2hover3.webp"
+    ]    },
+    {
+      "id": 4,
+      "title": "Pastel Dreams Bouquet",
+      "description": "Soft pastel pink and lavender roses mixed with delicate baby's breath. Perfect for baby showers, birthdays, or any gentle celebration.",
+      "category": "Bouquet",
+      "price": 59.99,
+      "discountPercentage": 12.0,
+      "rating": 4.85,
+      "stock": 10,
+      "tags": [
+        "pastel",
+        "roses",
+        "delicate"
+      ],
+      "brand": "Petal Paradise",
+      "sku": "PDB20004",
+      "weight": 1.1,
+      "dimensions": {
+        "width": 29.0,
+        "height": 42.0,
+        "depth": 29.0
+      },
+      "warrantyInformation": "Freshness guaranteed for 7 days",
+      "shippingInformation": "Ships in 1-2 days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Perfect for my daughter's baby shower!",
+          "date": "2024-05-20T15:40:50.618Z",
+          "reviewerName": "Patricia Moore",
+          "reviewerEmail": "patricia.moore@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days freshness guarantee",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2024-05-04T08:00:00.618Z",
+        "updatedAt": "2024-05-23T08:56:21.618Z",
+        "barcode": "9164035100004",
+        "qrCode": "..."
+      },
+      "thumbnail":"/images/flowers/flower4.jpg",
+      "images": [            
+            "/images/flowers/product2hover1.jpg",
+            "/images/flowers/product2hover2.webp",
+            "/images/flowers/product2hover3.webp"
+    ]    },
+    {
+      "id": 5,
+      "title": "Wildflower Meadow Bouquet",
+      "description": "A rustic arrangement of seasonal wildflowers including daisies, cornflowers, and chamomile. Brings the beauty of nature indoors.",
+      "category": "Bouquet",
+      "price": 45.99,
+      "discountPercentage": 5.0,
+      "rating": 4.6,
+      "stock": 18,
+      "tags": [
+        "wildflowers",
+        "rustic",
+        "natural"
+      ],
+      "brand": "Nature's Bloom",
+      "sku": "WMB15005",
+      "weight": 0.9,
+      "dimensions": {
+        "width": 26.0,
+        "height": 35.0,
+        "depth": 26.0
+      },
+      "warrantyInformation": "Freshness guaranteed for 7 days",
+      "shippingInformation": "Ships in 1-2 days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Love the natural look!",
+          "date": "2024-05-19T09:25:15.618Z",
+          "reviewerName": "Amanda Green",
+          "reviewerEmail": "amanda.green@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Beautiful but smaller than expected",
+          "date": "2024-05-16T14:10:30.618Z",
+          "reviewerName": "Christopher Lee",
+          "reviewerEmail": "christopher.lee@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days freshness guarantee",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2024-05-05T08:00:00.618Z",
+        "updatedAt": "2024-05-23T08:56:21.618Z",
+        "barcode": "9164035100005",
+        "qrCode": "..."
+      },
+      "thumbnail":"/images/flowers/product-5.jpg",
+      "images": [            
+            "/images/flowers/product2hover1.jpg",
+            "/images/flowers/product2hover2.webp",
+            "/images/flowers/product2hover3.webp"
+    ]    },
+    {
+      "id": 6,
+      "title": "Luxury Rose Flower Box",
+      "description": "Premium preserved roses arranged in an elegant square box. These roses last for up to a year with no water needed. Available in black luxury packaging.",
+      "category": "Flower box",
+      "price": 129.99,
+      "discountPercentage": 20.0,
+      "rating": 4.95,
+      "stock": 6,
+      "tags": [
+        "preserved",
+        "luxury",
+        "roses"
+      ],
+      "brand": "Eternal Blooms",
+      "sku": "LRB25006",
+      "weight": 2.0,
+      "dimensions": {
+        "width": 25.0,
+        "height": 25.0,
+        "depth": 15.0
+      },
+      "warrantyInformation": "Lasts up to 1 year",
+      "shippingInformation": "Ships in 2-3 days",
+      "availabilityStatus": "Low Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Stunning! Worth every penny!",
+          "date": "2024-05-22T12:35:40.618Z",
+          "reviewerName": "Victoria Brown",
+          "reviewerEmail": "victoria.brown@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Best gift ever!",
+          "date": "2024-05-18T11:20:25.618Z",
+          "reviewerName": "Daniel Martinez",
+          "reviewerEmail": "daniel.martinez@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2024-05-06T08:00:00.618Z",
+        "updatedAt": "2024-05-23T08:56:21.618Z",
+        "barcode": "9164035100006",
+        "qrCode": "..."
+      },
+      "thumbnail":"/images/flowers/product-6.jpg",
+      "images": [            
+            "/images/flowers/product2hover1.jpg",
+            "/images/flowers/product2hover2.webp",
+            "/images/flowers/product2hover3.webp"
+    ]    },
+    {
+      "id": 7,
+      "title": "Heart-Shaped Rose Box",
+      "description": "Romantic heart-shaped box filled with fresh red and pink roses. Perfect for Valentine's Day, anniversaries, or expressing your love.",
+      "category": "Flower box",
+      "price": 89.99,
+      "discountPercentage": 15.0,
+      "rating": 4.88,
+      "stock": 9,
+      "tags": [
+        "romantic",
+        "heart",
+        "roses"
+      ],
+      "brand": "Love Blooms",
+      "sku": "HRB30007",
+      "weight": 1.8,
+      "dimensions": {
+        "width": 30.0,
+        "height": 28.0,
+        "depth": 12.0
+      },
+      "warrantyInformation": "Freshness guaranteed for 7 days",
+      "shippingInformation": "Ships in 1-2 days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "My girlfriend cried tears of joy!",
+          "date": "2024-05-21T16:50:35.618Z",
+          "reviewerName": "Matthew Harris",
+          "reviewerEmail": "matthew.harris@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Absolutely romantic!",
+          "date": "2024-05-17T13:15:20.618Z",
+          "reviewerName": "Jessica White",
+          "reviewerEmail": "jessica.white@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days freshness guarantee",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2024-05-07T08:00:00.618Z",
+        "updatedAt": "2024-05-23T08:56:21.618Z",
+        "barcode": "9164035100007",
+        "qrCode": "..."
+      },
+      "thumbnail":"/images/flowers/product-7.jpg",
+      "images": [            
+            "/images/flowers/product2hover1.jpg",
+            "/images/flowers/product2hover2.webp",
+            "/images/flowers/product2hover3.webp"
+    ]    },
+    {
+      "id": 8,
+      "title": "Modern Orchid Flower Box",
+      "description": "Elegant white and purple orchids arranged in a sleek modern box. A sophisticated gift that brings long-lasting beauty.",
+      "category": "Flower box",
+      "price": 95.99,
+      "discountPercentage": 10.0,
+      "rating": 4.75,
+      "stock": 7,
+      "tags": [
+        "orchids",
+        "modern",
+        "elegant"
+      ],
+      "brand": "Orchid Dreams",
+      "sku": "MOB15008",
+      "weight": 1.6,
+      "dimensions": {
+        "width": 22.0,
+        "height": 30.0,
+        "depth": 18.0
+      },
+      "warrantyInformation": "Freshness guaranteed for 14 days",
+      "shippingInformation": "Ships in 2-3 days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Orchids lasted 3 weeks!",
+          "date": "2024-05-20T10:40:15.618Z",
+          "reviewerName": "Sophia Martinez",
+          "reviewerEmail": "sophia.martinez@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Very elegant presentation",
+          "date": "2024-05-15T09:30:40.618Z",
+          "reviewerName": "William Davis",
+          "reviewerEmail": "william.davis@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "14 days freshness guarantee",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2024-05-08T08:00:00.618Z",
+        "updatedAt": "2024-05-23T08:56:21.618Z",
+        "barcode": "9164035100008",
+        "qrCode": "..."
+      },
+      "thumbnail":"/images/flowers/product-8.jpg",
+      "images": [            
+            "/images/flowers/product2hover1.jpg",
+            "/images/flowers/product2hover2.webp",
+            "/images/flowers/product2hover3.webp"
+    ]    },
+    {
+      "id": 9,
+      "title": "Rainbow Tulip Flower Box",
+      "description": "A vibrant collection of rainbow-colored tulips in a chic white box. Includes red, yellow, pink, purple, and white tulips for a cheerful display.",
+      "category": "Flower box",
+      "price": 74.99,
+      "discountPercentage": 8.0,
+      "rating": 4.82,
+      "stock": 11,
+      "tags": [
+        "tulips",
+        "colorful",
+        "vibrant"
+      ],
+      "brand": "Tulip Garden",
+      "sku": "RTB40009",
+      "weight": 1.4,
+      "dimensions": {
+        "width": 28.0,
+        "height": 20.0,
+        "depth": 20.0
+      },
+      "warrantyInformation": "Freshness guaranteed for 7 days",
+      "shippingInformation": "Ships in 1-2 days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Colors are absolutely stunning!",
+          "date": "2024-05-19T14:25:30.618Z",
+          "reviewerName": "Olivia Thompson",
+          "reviewerEmail": "olivia.thompson@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days freshness guarantee",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2024-05-09T08:00:00.618Z",
+        "updatedAt": "2024-05-23T08:56:21.618Z",
+        "barcode": "9164035100009",
+        "qrCode": "..."
+      },
+      "thumbnail":"/images/flowers/product-9.jpg",
+      "images": [            
+            "/images/flowers/product2hover1.jpg",
+            "/images/flowers/product2hover2.webp",
+            "/images/flowers/product2hover3.webp"
+    ]    },
+    {
+      "id": 10,
+      "title": "Peony Paradise Flower Box",
+      "description": "Luxurious pink and white peonies in a premium velvet-lined box. These stunning blooms are perfect for weddings and special occasions.",
+      "category": "Flower box",
+      "price": 115.99,
+      "discountPercentage": 18.0,
+      "rating": 4.92,
+      "stock": 5,
+      "tags": [
+        "peonies",
+        "luxury",
+        "wedding"
+      ],
+      "brand": "Eternal Blooms",
+      "sku": "PPB20010",
+      "weight": 1.7,
+      "dimensions": {
+        "width": 26.0,
+        "height": 24.0,
+        "depth": 16.0
+      },
+      "warrantyInformation": "Freshness guaranteed for 7 days",
+      "shippingInformation": "Ships in 2-3 days",
+      "availabilityStatus": "Low Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Perfect for my wedding!",
+          "date": "2024-05-22T15:10:45.618Z",
+          "reviewerName": "Emily Rodriguez",
+          "reviewerEmail": "emily.rodriguez@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Most beautiful peonies I've ever seen!",
+          "date": "2024-05-18T12:35:20.618Z",
+          "reviewerName": "Alexander King",
+          "reviewerEmail": "alexander.king@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days freshness guarantee",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2024-05-10T08:00:00.618Z",
+        "updatedAt": "2024-05-23T08:56:21.618Z",
+        "barcode": "9164035100010",
+        "qrCode": "..."
+      },
+      "thumbnail":"/images/flowers/product-10.jpg",
+      "images": [            
+            "/images/flowers/product2hover1.jpg",
+            "/images/flowers/product2hover2.webp",
+            "/images/flowers/product2hover3.webp"
+    ]    },
+    {
+      "id": 11,
+      "title": "Succulent Garden Shelf",
+      "description": "A beautiful arrangement of assorted succulents on a rustic wooden shelf. Low maintenance and perfect for home or office decor.",
+      "category": "Flower shelf",
+      "price": 68.99,
+      "discountPercentage": 12.0,
+      "rating": 4.7,
+      "stock": 14,
+      "tags": [
+        "succulents",
+        "shelf",
+        "low-maintenance"
+      ],
+      "brand": "Green Haven",
+      "sku": "SGS12011",
+      "weight": 3.5,
+      "dimensions": {
+        "width": 45.0,
+        "height": 20.0,
+        "depth": 12.0
+      },
+      "warrantyInformation": "Plant care guide included",
+      "shippingInformation": "Ships in 3-5 days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Perfect for my office desk!",
+          "date": "2024-05-21T11:20:35.618Z",
+          "reviewerName": "Rachel Adams",
+          "reviewerEmail": "rachel.adams@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Nice variety of succulents",
+          "date": "2024-05-16T13:45:20.618Z",
+          "reviewerName": "Kevin Scott",
+          "reviewerEmail": "kevin.scott@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "14 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2024-05-11T08:00:00.618Z",
+        "updatedAt": "2024-05-23T08:56:21.618Z",
+        "barcode": "9164035100011",
+        "qrCode": "..."
+      },
+      "thumbnail": "/images/flowers/flower4.jpg",
+      "images": [            
+            "/images/flowers/product2hover1.jpg",
+            "/images/flowers/product2hover2.webp",
+            "/images/flowers/product2hover3.webp"
+    ]    },
+    {
+      "id": 12,
+      "title": "Herb Garden Shelf Set",
+      "description": "A three-tier shelf with basil, rosemary, thyme, and mint plants. Fresh herbs for your kitchen, beautifully displayed.",
+      "category": "Flower shelf",
+      "price": 85.99,
+      "discountPercentage": 10.0,
+      "rating": 4.65,
+      "stock": 8,
+      "tags": [
+        "herbs",
+        "kitchen",
+        "functional"
+      ],
+      "brand": "Kitchen Garden Co.",
+      "sku": "HGS16012",
+      "weight": 4.2,
+      "dimensions": {
+        "width": 40.0,
+        "height": 35.0,
+        "depth": 15.0
+      },
+      "warrantyInformation": "Growing guide included",
+      "shippingInformation": "Ships in 3-5 days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Love having fresh herbs!",
+          "date": "2024-05-20T09:15:25.618Z",
+          "reviewerName": "Michelle Turner",
+          "reviewerEmail": "michelle.turner@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Good quality but needs frequent watering",
+          "date": "2024-05-14T10:30:40.618Z",
+          "reviewerName": "Brian Campbell",
+          "reviewerEmail": "brian.campbell@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2024-05-12T08:00:00.618Z",
+        "updatedAt": "2024-05-23T08:56:21.618Z",
+        "barcode": "9164035100012",
+        "qrCode": "..."
+      },
+      "thumbnail": "/images/flowers/flower4.jpg",
+      "images": [            
+            "/images/flowers/product2hover1.jpg",
+            "/images/flowers/product2hover2.webp",
+            "/images/flowers/product2hover3.webp"
+    ]    },
+    {
+      "id": 13,
+      "title": "Orchid Display Shelf",
+      "description": "Elegant white metal shelf featuring three potted orchid plants. Modern design perfect for contemporary home decor.",
+      "category": "Flower shelf",
+      "price": 125.99,
+      "discountPercentage": 15.0,
+      "rating": 4.8,
+      "stock": 6,
+      "tags": [
+        "orchids",
+        "modern",
+        "display"
+      ],
+      "brand": "Orchid Dreams",
+      "sku": "ODS09013",
+      "weight": 5.0,
+      "dimensions": {
+        "width": 50.0,
+        "height": 40.0,
+        "depth": 18.0
+      },
+      "warrantyInformation": "1 year shelf warranty",
+      "shippingInformation": "Ships in 5-7 days",
+      "availabilityStatus": "Low Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Looks amazing in my living room!",
+          "date": "2024-05-19T15:40:30.618Z",
+          "reviewerName": "Lauren Mitchell",
+          "reviewerEmail": "lauren.mitchell@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2024-05-13T08:00:00.618Z",
+        "updatedAt": "2024-05-23T08:56:21.618Z",
+        "barcode": "9164035100013",
+        "qrCode": "..."
+      },
+      "thumbnail": "/images/flowers/flower4.jpg",
+      "images": [            
+            "/images/flowers/product2hover1.jpg",
+            "/images/flowers/product2hover2.webp",
+            "/images/flowers/product2hover3.webp"
+    ]    },
+    {
+      "id": 14,
+      "title": "Bonsai Tree Shelf Collection",
+      "description": "Three carefully cultivated bonsai trees on a bamboo shelf. Includes juniper, ficus, and jade varieties with care instructions.",
+      "category": "Flower shelf",
+      "price": 195.99,
+      "discountPercentage": 20.0,
+      "rating": 4.9,
+      "stock": 4,
+      "tags": [
+        "bonsai",
+        "zen",
+        "collection"
+      ],
+      "brand": "Zen Gardens",
+      "sku": "BTS06014",
+      "weight": 6.5,
+      "dimensions": {
+        "width": 55.0,
+        "height": 30.0,
+        "depth": 20.0
+      },
+      "warrantyInformation": "Lifetime care support",
+      "shippingInformation": "Ships in 7-10 days",
+      "availabilityStatus": "Low Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Masterpiece! Worth the investment!",
+          "date": "2024-05-18T14:55:45.618Z",
+          "reviewerName": "Thomas Wright",
+          "reviewerEmail": "thomas.wright@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Beautiful craftsmanship!",
+          "date": "2024-05-12T11:20:30.618Z",
+          "reviewerName": "Jennifer Lopez",
+          "reviewerEmail": "jennifer.lopez@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "14 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2024-05-14T08:00:00.618Z",
+        "updatedAt": "2024-05-23T08:56:21.618Z",
+        "barcode": "9164035100014",
+        "qrCode": "..."
+      },
+      "thumbnail": "/images/flowers/flower4.jpg",
+      "images": [            
+            "/images/flowers/product2hover1.jpg",
+            "/images/flowers/product2hover2.webp",
+            "/images/flowers/product2hover3.webp"
+    ]    },
+    {
+      "id": 15,
+      "title": "Air Plant Wall Shelf",
+      "description": "Geometric wall-mounted shelf with six air plants. No soil needed, minimal care required. Perfect for small spaces.",
+      "category": "Flower shelf",
+      "price": 49.99,
+      "discountPercentage": 5.0,
+      "rating": 4.55,
+      "stock": 20,
+      "tags": [
+        "air plants",
+        "wall-mount",
+        "minimalist"
+      ],
+      "brand": "Green Haven",
+      "sku": "APS18015",
+      "weight": 1.8,
+      "dimensions": {
+        "width": 35.0,
+        "height": 25.0,
+        "depth": 10.0
+      },
+      "warrantyInformation": "Care guide included",
+      "shippingInformation": "Ships in 2-3 days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "So easy to care for!",
+          "date": "2024-05-17T10:30:15.618Z",
+          "reviewerName": "Ashley Parker",
+          "reviewerEmail": "ashley.parker@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Great for apartment living",
+          "date": "2024-05-13T09:45:20.618Z",
+          "reviewerName": "Joshua Evans",
+          "reviewerEmail": "joshua.evans@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "14 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2024-05-15T08:00:00.618Z",
+        "updatedAt": "2024-05-23T08:56:21.618Z",
+        "barcode": "9164035100015",
+        "qrCode": "..."
+      },
+      "thumbnail": "/images/flowers/flower4.jpg",
+      "images": [            
+            "/images/flowers/product2hover1.jpg",
+            "/images/flowers/product2hover2.webp",
+            "/images/flowers/product2hover3.webp"
+    ]    },
+    {
+      "id": 16,
+      "title": "Spring Flower Basket",
+      "description": "A charming wicker basket filled with tulips, daffodils, and hyacinths. The essence of spring in a beautiful arrangement.",
+      "category": "Basket of flower",
+      "price": 69.99,
+      "discountPercentage": 10.0,
+      "rating": 4.75,
+      "stock": 12,
+      "tags": [
+        "spring",
+        "basket",
+        "seasonal"
+      ],
+      "brand": "Season's Best",
+      "sku": "SFB24016",
+      "weight": 2.2,
+      "dimensions": {
+        "width": 35.0,
+        "height": 30.0,
+        "depth": 25.0
+      },
+      "warrantyInformation": "Freshness guaranteed for 7 days",
+      "shippingInformation": "Ships in 1-2 days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Perfect Easter gift!",
+          "date": "2024-05-21T13:25:40.618Z",
+          "reviewerName": "Melissa Collins",
+          "reviewerEmail": "melissa.collins@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Fresh and beautiful",
+          "date": "2024-05-16T11:15:25.618Z",
+          "reviewerName": "Andrew Stewart",
+          "reviewerEmail": "andrew.stewart@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days freshness guarantee",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2024-05-16T08:00:00.618Z",
+        "updatedAt": "2024-05-23T08:56:21.618Z",
+        "barcode": "9164035100016",
+        "qrCode": "..."
+      },
+      "thumbnail": "/images/flowers/flower4.jpg",
+      "images": [            
+            "/images/flowers/product2hover1.jpg",
+            "/images/flowers/product2hover2.webp",
+            "/images/flowers/product2hover3.webp"
+    ]    },
+    {
+      "id": 17,
+      "title": "Get Well Soon Flower Basket",
+      "description": "Cheerful basket with bright gerberas, carnations, and greenery. Designed to lift spirits and bring comfort.",
+      "category": "Basket of flower",
+      "price": 64.99,
+      "discountPercentage": 8.0,
+      "rating": 4.7,
+      "stock": 15,
+      "tags": [
+        "get well",
+        "cheerful",
+        "comfort"
+      ],
+      "brand": "Care & Comfort Flowers",
+      "sku": "GWB20017",
+      "weight": 2.0,
+      "dimensions": {
+        "width": 32.0,
+        "height": 28.0,
+        "depth": 24.0
+      },
+      "warrantyInformation": "Freshness guaranteed for 7 days",
+      "shippingInformation": "Ships in 1-2 days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Brightened my mom's hospital room!",
+          "date": "2024-05-20T14:35:50.618Z",
+          "reviewerName": "Nicole Sanders",
+          "reviewerEmail": "nicole.sanders@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days freshness guarantee",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2024-05-17T08:00:00.618Z",
+        "updatedAt": "2024-05-23T08:56:21.618Z",
+        "barcode": "9164035100017",
+        "qrCode": "..."
+      },
+      "thumbnail": "/images/flowers/flower4.jpg",
+      "images": [            
+            "/images/flowers/product2hover1.jpg",
+            "/images/flowers/product2hover2.webp",
+            "/images/flowers/product2hover3.webp"
+    ]    },
+    {
+      "id": 18,
+      "title": "Sympathy White Flower Basket",
+      "description": "Peaceful arrangement of white roses, lilies, and chrysanthemums in a classic basket. Express your condolences with grace.",
+      "category": "Basket of flower",
+      "price": 89.99,
+      "discountPercentage": 12.0,
+      "rating": 4.85,
+      "stock": 8,
+      "tags": [
+        "sympathy",
+        "white",
+        "funeral"
+      ],
+      "brand": "Peaceful Petals",
+      "sku": "SWB18018",
+      "weight": 2.5,
+      "dimensions": {
+        "width": 38.0,
+        "height": 32.0,
+        "depth": 28.0
+      },
+      "warrantyInformation": "Freshness guaranteed for 7 days",
+      "shippingInformation": "Ships in 1-2 days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Dignified and beautiful",
+          "date": "2024-05-19T12:40:35.618Z",
+          "reviewerName": "Gregory Morris",
+          "reviewerEmail": "gregory.morris@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Perfect for the service",
+          "date": "2024-05-15T10:25:20.618Z",
+          "reviewerName": "Catherine Rogers",
+          "reviewerEmail": "catherine.rogers@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days freshness guarantee",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2024-05-18T08:00:00.618Z",
+        "updatedAt": "2024-05-23T08:56:21.618Z",
+        "barcode": "9164035100018",
+        "qrCode": "..."
+      },
+      "thumbnail": "/images/flowers/flower4.jpg",
+      "images": [            
+            "/images/flowers/product2hover1.jpg",
+            "/images/flowers/product2hover2.webp",
+            "/images/flowers/product2hover3.webp"
+    ]    },
+    {
+      "id": 19,
+      "title": "Birthday Celebration Basket",
+      "description": "Festive basket bursting with colorful roses, lilies, and alstroemeria. Includes a birthday balloon and ribbons.",
+      "category": "Basket of flower",
+      "price": 74.99,
+      "discountPercentage": 10.0,
+      "rating": 4.78,
+      "stock": 10,
+      "tags": [
+        "birthday",
+        "celebration",
+        "festive"
+      ],
+      "brand": "Party Blooms",
+      "sku": "BCB22019",
+      "weight": 2.3,
+      "dimensions": {
+        "width": 34.0,
+        "height": 35.0,
+        "depth": 26.0
+      },
+      "warrantyInformation": "Freshness guaranteed for 7 days",
+      "shippingInformation": "Ships in 1-2 days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Made her day special!",
+          "date": "2024-05-18T15:50:45.618Z",
+          "reviewerName": "Steven Cooper",
+          "reviewerEmail": "steven.cooper@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Very festive arrangement",
+          "date": "2024-05-14T13:30:30.618Z",
+          "reviewerName": "Diana Peterson",
+          "reviewerEmail": "diana.peterson@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days freshness guarantee",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2024-05-19T08:00:00.618Z",
+        "updatedAt": "2024-05-23T08:56:21.618Z",
+        "barcode": "9164035100019",
+        "qrCode": "..."
+      },
+      "thumbnail": "/images/flowers/flower4.jpg",
+      "images": [            
+            "/images/flowers/product2hover1.jpg",
+            "/images/flowers/product2hover2.webp",
+            "/images/flowers/product2hover3.webp"
+    ]    },
+    {
+      "id": 20,
+      "title": "Garden Fresh Flower Basket",
+      "description": "Rustic basket with a cottage garden mix of lavender, roses, and seasonal blooms. Straight from the garden feel.",
+      "category": "Basket of flower",
+      "price": 59.99,
+      "discountPercentage": 7.0,
+      "rating": 4.68,
+      "stock": 16,
+      "tags": [
+        "garden",
+        "rustic",
+        "cottage"
+      ],
+      "brand": "Nature's Bloom",
+      "sku": "GFB26020",
+      "weight": 1.9,
+      "dimensions": {
+        "width": 30.0,
+        "height": 26.0,
+        "depth": 22.0
+      },
+      "warrantyInformation": "Freshness guaranteed for 7 days",
+      "shippingInformation": "Ships in 1-2 days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Smells amazing!",
+          "date": "2024-05-17T11:15:25.618Z",
+          "reviewerName": "Rebecca Bailey",
+          "reviewerEmail": "rebecca.bailey@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Beautiful rustic look",
+          "date": "2024-05-13T14:40:35.618Z",
+          "reviewerName": "Justin Rivera",
+          "reviewerEmail": "justin.rivera@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days freshness guarantee",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2024-05-20T08:00:00.618Z",
+        "updatedAt": "2024-05-23T08:56:21.618Z",
+        "barcode": "9164035100020",
+        "qrCode": "..."
+      },
+      "thumbnail": "/images/flowers/flower4.jpg",
+      "images": [            
+            "/images/flowers/product2hover1.jpg",
+            "/images/flowers/product2hover2.webp",
+            "/images/flowers/product2hover3.webp"
+    ]    },
+    {
+      "id": 21,
+      "title": "Romance & Chocolate Gift Combo",
+      "description": "Luxury gift set featuring a dozen red roses with premium Belgian chocolates in an elegant presentation box.",
+      "category": "Gift combos",
+      "price": 99.99,
+      "discountPercentage": 15.0,
+      "rating": 4.92,
+      "stock": 9,
+      "tags": [
+        "romance",
+        "chocolate",
+        "luxury"
+      ],
+      "brand": "Love & Treats",
+      "sku": "RCG12021",
+      "weight": 2.8,
+      "dimensions": {
+        "width": 40.0,
+        "height": 35.0,
+        "depth": 20.0
+      },
+      "warrantyInformation": "Freshness guaranteed for 7 days",
+      "shippingInformation": "Ships in 1-2 days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Best anniversary gift ever!",
+          "date": "2024-05-22T16:45:50.618Z",
+          "reviewerName": "Marcus Johnson",
+          "reviewerEmail": "marcus.johnson@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Chocolates were divine!",
+          "date": "2024-05-18T13:20:35.618Z",
+          "reviewerName": "Samantha Brooks",
+          "reviewerEmail": "samantha.brooks@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days freshness guarantee",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2024-05-21T08:00:00.618Z",
+        "updatedAt": "2024-05-23T08:56:21.618Z",
+        "barcode": "9164035100021",
+        "qrCode": "..."
+      },
+      "thumbnail": "/images/flowers/flower4.jpg",
+      "images": [            
+            "/images/flowers/product2hover1.jpg",
+            "/images/flowers/product2hover2.webp",
+            "/images/flowers/product2hover3.webp"
+    ]    },
+    {
+      "id": 22,
+      "title": "Flowers & Wine Celebration Set",
+      "description": "Beautiful mixed bouquet paired with a bottle of premium champagne. Perfect for celebrations and special occasions.",
+      "category": "Gift combos",
+      "price": 129.99,
+      "discountPercentage": 18.0,
+      "rating": 4.88,
+      "stock": 7,
+      "tags": [
+        "wine",
+        "celebration",
+        "champagne"
+      ],
+      "brand": "Celebration Station",
+      "sku": "FWC15022",
+      "weight": 3.5,
+      "dimensions": {
+        "width": 35.0,
+        "height": 40.0,
+        "depth": 25.0
+      },
+      "warrantyInformation": "Freshness guaranteed for 7 days",
+      "shippingInformation": "Ships in 2-3 days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Classy and sophisticated!",
+          "date": "2024-05-21T14:30:40.618Z",
+          "reviewerName": "Jonathan White",
+          "reviewerEmail": "jonathan.white@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days freshness guarantee",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2024-05-22T08:00:00.618Z",
+        "updatedAt": "2024-05-23T08:56:21.618Z",
+        "barcode": "9164035100022",
+        "qrCode": "..."
+      },
+      "thumbnail": "/images/flowers/flower4.jpg",
+      "images": [            
+            "/images/flowers/product2hover1.jpg",
+            "/images/flowers/product2hover2.webp",
+            "/images/flowers/product2hover3.webp"
+    ]    },
+    {
+      "id": 23,
+      "title": "Spa & Flowers Relaxation Set",
+      "description": "Pampering gift set with fresh flowers, scented candles, bath salts, and a plush robe. Ultimate relaxation package.",
+      "category": "Gift combos",
+      "price": 149.99,
+      "discountPercentage": 20.0,
+      "rating": 4.95,
+      "stock": 5,
+      "tags": [
+        "spa",
+        "relaxation",
+        "pampering"
+      ],
+      "brand": "Serenity Gifts",
+      "sku": "SFR10023",
+      "weight": 4.0,
+      "dimensions": {
+        "width": 45.0,
+        "height": 38.0,
+        "depth": 30.0
+      },
+      "warrantyInformation": "Satisfaction guaranteed",
+      "shippingInformation": "Ships in 2-3 days",
+      "availabilityStatus": "Low Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Best Mother's Day gift!",
+          "date": "2024-05-20T12:55:45.618Z",
+          "reviewerName": "Kimberly Hayes",
+          "reviewerEmail": "kimberly.hayes@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "She loved every item!",
+          "date": "2024-05-16T15:40:30.618Z",
+          "reviewerName": "Richard Foster",
+          "reviewerEmail": "richard.foster@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2024-05-23T08:00:00.618Z",
+        "updatedAt": "2024-05-23T08:56:21.618Z",
+        "barcode": "9164035100023",
+        "qrCode": "..."
+      },
+      "thumbnail": "/images/flowers/flower4.jpg",
+      "images": [            
+            "/images/flowers/product2hover1.jpg",
+            "/images/flowers/product2hover2.webp",
+            "/images/flowers/product2hover3.webp"
+    ]    },
+    {
+      "id": 24,
+      "title": "Coffee & Blooms Morning Set",
+      "description": "Energizing combo of fresh flowers with gourmet coffee beans, ceramic mug, and artisan cookies.",
+      "category": "Gift combos",
+      "price": 79.99,
+      "discountPercentage": 10.0,
+      "rating": 4.72,
+      "stock": 13,
+      "tags": [
+        "coffee",
+        "morning",
+        "gourmet"
+      ],
+      "brand": "Morning Delight",
+      "sku": "CBM18024",
+      "weight": 2.6,
+      "dimensions": {
+        "width": 32.0,
+        "height": 30.0,
+        "depth": 22.0
+      },
+      "warrantyInformation": "Freshness guaranteed",
+      "shippingInformation": "Ships in 1-2 days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Perfect for coffee lovers!",
+          "date": "2024-05-19T10:25:35.618Z",
+          "reviewerName": "Laura Jenkins",
+          "reviewerEmail": "laura.jenkins@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Coffee was excellent quality",
+          "date": "2024-05-15T12:50:20.618Z",
+          "reviewerName": "Eric Powell",
+          "reviewerEmail": "eric.powell@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "14 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2024-05-24T08:00:00.618Z",
+        "updatedAt": "2024-05-23T08:56:21.618Z",
+        "barcode": "9164035100024",
+        "qrCode": "..."
+      },
+      "thumbnail": "/images/flowers/flower4.jpg",
+      "images": [            
+            "/images/flowers/product2hover1.jpg",
+            "/images/flowers/product2hover2.webp",
+            "/images/flowers/product2hover3.webp"
+    ]    },
+    {
+      "id": 25,
+      "title": "Tea & Flowers Serenity Set",
+      "description": "Calming collection featuring herbal tea assortment, honey, teapot, and a beautiful flower arrangement.",
+      "category": "Gift combos",
+      "price": 84.99,
+      "discountPercentage": 12.0,
+      "rating": 4.8,
+      "stock": 11,
+      "tags": [
+        "tea",
+        "serenity",
+        "wellness"
+      ],
+      "brand": "Tranquil Moments",
+      "sku": "TFS14025",
+      "weight": 2.9,
+      "dimensions": {
+        "width": 34.0,
+        "height": 32.0,
+        "depth": 24.0
+      },
+      "warrantyInformation": "Quality guaranteed",
+      "shippingInformation": "Ships in 1-2 days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "So peaceful and thoughtful!",
+          "date": "2024-05-18T11:35:50.618Z",
+          "reviewerName": "Angela Russell",
+          "reviewerEmail": "angela.russell@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Tea selection was wonderful",
+          "date": "2024-05-14T14:20:25.618Z",
+          "reviewerName": "Patrick Griffin",
+          "reviewerEmail": "patrick.griffin@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "14 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2024-05-25T08:00:00.618Z",
+        "updatedAt": "2024-05-23T08:56:21.618Z",
+        "barcode": "9164035100025",
+        "qrCode": "..."
+      },
+      "thumbnail": "/images/flowers/product-10.jpg",
+      "images": [            
+            "/images/flowers/product2hover1.jpg",
+            "/images/flowers/product2hover2.webp",
+            "/images/flowers/product2hover3.webp"
+    ]    },
+    {
+      "id": 26,
+      "title": "Premium Peony Bouquet",
+      "description": "Exquisite bouquet of coral and blush peonies. These lush blooms are arranged to showcase their natural beauty.",
+      "category": "Bouquet",
+      "price": 94.99,
+      "discountPercentage": 10.0,
+      "rating": 4.93,
+      "stock": 6,
+      "tags": [
+        "peonies",
+        "premium",
+        "elegant"
+      ],
+      "brand": "Petal Paradise",
+      "sku": "PPB15026",
+      "weight": 1.4,
+      "dimensions": {
+        "width": 31.0,
+        "height": 43.0,
+        "depth": 31.0
+      },
+      "warrantyInformation": "Freshness guaranteed for 7 days",
+      "shippingInformation": "Ships in 1-2 days",
+      "availabilityStatus": "Low Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Most gorgeous peonies!",
+          "date": "2024-05-22T09:40:25.618Z",
+          "reviewerName": "Heather Diaz",
+          "reviewerEmail": "heather.diaz@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days freshness guarantee",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2024-05-26T08:00:00.618Z",
+        "updatedAt": "2024-05-23T08:56:21.618Z",
+        "barcode": "9164035100026",
+        "qrCode": "..."
+      },
+      "thumbnail": "/images/flowers/product-10.jpg",
+      "images": ["...", "...", "..."]
+    },
+    {
+      "id": 27,
+      "title": "Tropical Paradise Bouquet",
+      "description": "Exotic arrangement of bird of paradise, anthuriums, and tropical foliage. Brings island vibes to any space.",
+      "category": "Bouquet",
+      "price": 89.99,
+      "discountPercentage": 14.0,
+      "rating": 4.76,
+      "stock": 9,
+      "tags": [
+        "tropical",
+        "exotic",
+        "vibrant"
+      ],
+      "brand": "Island Blooms",
+      "sku": "TPB14027",
+      "weight": 1.6,
+      "dimensions": {
+        "width": 33.0,
+        "height": 44.0,
+        "depth": 33.0
+      },
+      "warrantyInformation": "Freshness guaranteed for 10 days",
+      "shippingInformation": "Ships in 2-3 days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Like vacation in a vase!",
+          "date": "2024-05-21T12:15:40.618Z",
+          "reviewerName": "Brandon Kelly",
+          "reviewerEmail": "brandon.kelly@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Unique and beautiful",
+          "date": "2024-05-17T15:30:55.618Z",
+          "reviewerName": "Crystal Howard",
+          "reviewerEmail": "crystal.howard@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "10 days freshness guarantee",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2024-05-27T08:00:00.618Z",
+        "updatedAt": "2024-05-23T08:56:21.618Z",
+        "barcode": "9164035100027",
+        "qrCode": "..."
+      },
+      "thumbnail": "/images/flowers/product-10.jpg",
+      "images": ["...", "...", "..."]
+    },
+    {
+      "id": 28,
+      "title": "Lavender Dreams Flower Box",
+      "description": "Soothing arrangement of lavender roses and purple stock in a square box. Calming and romantic.",
+      "category": "Flower box",
+      "price": 79.99,
+      "discountPercentage": 9.0,
+      "rating": 4.83,
+      "stock": 8,
+      "tags": [
+        "lavender",
+        "purple",
+        "romantic"
+      ],
+      "brand": "Dream Flowers",
+      "sku": "LDF16028",
+      "weight": 1.5,
+      "dimensions": {
+        "width": 24.0,
+        "height": 22.0,
+        "depth": 18.0
+      },
+      "warrantyInformation": "Freshness guaranteed for 7 days",
+      "shippingInformation": "Ships in 1-2 days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Lovely color and scent!",
+          "date": "2024-05-20T11:50:35.618Z",
+          "reviewerName": "Vanessa Wood",
+          "reviewerEmail": "vanessa.wood@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days freshness guarantee",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2024-05-28T08:00:00.618Z",
+        "updatedAt": "2024-05-23T08:56:21.618Z",
+        "barcode": "9164035100028",
+        "qrCode": "..."
+      },
+      "thumbnail": "/images/flowers/product-10.jpg",
+      "images": ["...", "...", "..."]
+    },
+    {
+      "id": 29,
+      "title": "Cactus & Succulent Shelf Garden",
+      "description": "Desert-themed arrangement featuring various cacti and succulents on a two-tier wooden shelf. Drought-resistant and stylish.",
+      "category": "Flower shelf",
+      "price": 72.99,
+      "discountPercentage": 11.0,
+      "rating": 4.68,
+      "stock": 10,
+      "tags": [
+        "cactus",
+        "desert",
+        "low-maintenance"
+      ],
+      "brand": "Desert Botanicals",
+      "sku": "CSS10029",
+      "weight": 3.8,
+      "dimensions": {
+        "width": 42.0,
+        "height": 32.0,
+        "depth": 14.0
+      },
+      "warrantyInformation": "Care guide included",
+      "shippingInformation": "Ships in 3-5 days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Perfect for my office!",
+          "date": "2024-05-19T13:45:20.618Z",
+          "reviewerName": "Gary Coleman",
+          "reviewerEmail": "gary.coleman@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Great variety of cacti",
+          "date": "2024-05-14T10:20:45.618Z",
+          "reviewerName": "Tiffany Barnes",
+          "reviewerEmail": "tiffany.barnes@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "14 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2024-05-29T08:00:00.618Z",
+        "updatedAt": "2024-05-23T08:56:21.618Z",
+        "barcode": "9164035100029",
+        "qrCode": "..."
+      },
+      "thumbnail": "/images/flowers/product-10.jpg",
+      "images": ["...", "...", "..."]
+    },
+    {
+      "id": 30,
+      "title": "New Baby Flowers & Teddy Bear Set",
+      "description": "Adorable gift combo featuring pastel flowers in a basket with a plush teddy bear and baby-themed card.",
+      "category": "Gift combos",
+      "price": 69.99,
+      "discountPercentage": 8.0,
+      "rating": 4.9,
+      "stock": 14,
+      "tags": [
+        "baby",
+        "teddy bear",
+        "celebration"
+      ],
+      "brand": "Baby Blessings",
+      "sku": "NBT12030",
+      "weight": 2.4,
+      "dimensions": {
+        "width": 36.0,
+        "height": 34.0,
+        "depth": 26.0
+      },
+      "warrantyInformation": "Freshness guaranteed for 7 days",
+      "shippingInformation": "Ships in 1-2 days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Perfect for new parents!",
+          "date": "2024-05-22T14:30:50.618Z",
+          "reviewerName": "Timothy Ross",
+          "reviewerEmail": "timothy.ross@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Teddy bear was so cute!",
+          "date": "2024-05-18T16:15:35.618Z",
+          "reviewerName": "Monica Henderson",
+          "reviewerEmail": "monica.henderson@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days freshness guarantee",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2024-05-30T08:00:00.618Z",
+        "updatedAt": "2024-05-23T08:56:21.618Z",
+        "barcode": "9164035100030",
+        "qrCode": "..."
+      },
+      "thumbnail": "/images/flowers/product-10.jpg",
+      "images": ["...", "...", "..."]
+    }
+  ],
+  "total": 194,
+  "skip": 0,
+  "limit": 30
+}

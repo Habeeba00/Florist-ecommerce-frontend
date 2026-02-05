@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <link rel="stylesheet" href="../css/cart.css">
+    <link rel="stylesheet" href="../css/style.css">
+    <title>Shopping Cart</title>
+</head>
+<body>
+
+<nav>
+    <div class="nav__logo">
+        <img src="../images/logo.png" class="nav__logo-image" alt="logo">
+    </div>
+    <div class="nav__links">
+        <ul class="nav__list">
+            <li><a href="./home.html" class="active">HOME</a></li>
+            <li><a href="#about">ABOUT</a></li>
+            <li><a href="#">SERVICES</a></li>
+            <li><a href="#posts">BLOG</a></li>
+            <li><a href="#footer">CONTACT</a></li>
+            <li><a href="./login.html">LOGIN/REGISTER</a></li>
+            <li><a href="#"><i class="fa-solid fa-moon theme"></i></a></li>
+            <li><a href=""><i class="fa-regular fa-heart"></i></a></li>
+            <li><a href="../html/cart.html"><label class="cart-number">0</label><i class="fa-solid fa-cart-plus"></i></a></li>
+        </ul>
+    </div>
+</nav>
+
+    <div class="cart">
+        <div class="cart__table-wrapper">
+            <table class="cart__table">
+                <thead class="cart__head">
+                    <tr>
+                        <th class="cart__header">Product</th>
+                        <th class="cart__header">Price</th>
+                        <th class="cart__header">Quantity</th>
+                        <th class="cart__header">Total</th>
+                    </tr>
+                </thead>
+
+                <tbody class="cart__body">
+                    <tr>
+                        <td colspan="4" class="cart__empty">The cart is empty</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>        
+        
+        <div class="cart__checkout">
+            <h3 class="cart__subtotal">Subtotal: $0.00</h3>
+            <a href="checkout.html" class="cart__checkout-btn">Proceed to Checkout</a>
+        </div>
+    </div>
+    
+    <script src="../js/cart.js"></script>
+    <script src="../js/humbergermenue.js"></script>
+
+</body>
+</html>

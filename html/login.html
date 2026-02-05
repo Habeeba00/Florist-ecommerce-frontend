@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Login / Register</title>
+    <link rel="stylesheet" href="../css/login.css" />
+</head>
+
+<body>
+
+    <div class="allclass">
+
+        <div class="card">
+
+            <div class="imglogin">
+                <img src="../images/loginflower2.jpeg" alt="login image">
+            </div>
+
+            <div class="forms">
+
+                <form class="form login active" id="loginForm">
+                    <h1>Login</h1>
+
+                    <input type="text" id="loginUsername" placeholder="Username" required />
+                    <input type="password" id="loginPassword" placeholder="Password" required />
+
+                    <div class="row">
+                        <label>
+                            <input type="checkbox" id="rememberMe" />
+                            Remember me
+                        </label>
+                    </div>
+                    <div id="login-message" style="color: red;"></div>
+                    <button type="submit">Sign In</button>
+
+                    <p class="switch">
+                        Don't have an account?
+                        <span id="goRegister">Sign Up</span>
+                    </p>
+                </form>
+
+
+                <form class="form register" id="registerForm">
+                    <h1>Sign Up</h1>
+
+                    <input type="text" id="regName" placeholder="Name" required />
+                    <input type="email" id="regEmail" placeholder="Email" required />
+                    <input type="password" id="regPassword" placeholder="Password" required />
+                    <div id="form-message" style="color: red; margin-bottom: 10px;"></div>
+                    <button type="submit">Sign Up</button>
+
+                    <p class="switch">
+                        Already have an account?
+                        <span id="goLogin">Sign In</span>
+                    </p>
+                </form>
+
+            </div>
+        </div>
+    </div>
+
+    <script src="../js/login.js"></script>
+</body>
+
+</html>
